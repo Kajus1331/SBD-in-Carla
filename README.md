@@ -2,12 +2,12 @@
 
 This project implements slot-based maneuvers for autonomous vehicles on multi-lane highways in the CARLA simulator.  
 
-# Requirements for CARLA:
+# Prerequisites
 
-GPU with at least 6gb
-Disc space with at least 20gb
-Python 3 and Python 2.7 for Linux or only Python 3 for Windows
-Pip to be installed
+- GPU with at least 6 GB VRAM
+- Disk space with at least 20 GB
+- Python 3 and Python 2.7 for Linux, or only Python 3 for Windows
+- Pip installed
 
 # Install CARLA using the following instructions:
 https://carla.readthedocs.io/en/latest/start_quickstart/
