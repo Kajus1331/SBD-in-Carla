@@ -16,7 +16,7 @@ https://carla.readthedocs.io/en/latest/start_quickstart/
 cd /path/to/carla/PythonAPI
 
 # Clone this repository there
-git clone https://github.com/your-username/SBD-in-Carla.git
+git clone https://github.com/Kajus1331/SBD-in-Carla.git
 
 # Navigate into the cloned directory
 cd SBD-in-Carla
